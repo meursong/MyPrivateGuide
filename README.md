@@ -8,9 +8,7 @@
 혹은 맛없는 단체 음식점이나 취향에 맞지않는 지루한 코스가 걱정되시나요?
 그렇다면 지역 토박이 가이드와 함께하는 My Private Guide와 함께하세요.
 
-## Getting Started
-
-### Built with
+## Built with
 
 1.Nodejs
 2.Vue
