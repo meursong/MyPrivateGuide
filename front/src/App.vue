@@ -1,10 +1,12 @@
 <template>
-  <Header />
-  <Header2 />
-  <div id="content" class="content">
-    <router-view></router-view>
+  <div>
+    <Header />
+    <Header2 />
+    <div id="content" class="content">
+      <router-view></router-view>
+    </div>
+    <Footer />
   </div>
-  <Footer />
 </template>
 
 <script>

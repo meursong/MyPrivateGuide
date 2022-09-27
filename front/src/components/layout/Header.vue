@@ -241,6 +241,5 @@ export default {
   width: 80px;
   height: 35px;
   font-size: 5px;
-  font-display: ;
 }
 </style>
